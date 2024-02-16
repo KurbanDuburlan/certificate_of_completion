@@ -1,2 +1,2 @@
 # certificate_of_completion
-Certificate of completion
+Диплом о профессиональной переподготовке по программе "Специалист по Data Science" 
